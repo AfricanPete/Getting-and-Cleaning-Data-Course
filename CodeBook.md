@@ -61,3 +61,4 @@ Replace:
 "_, ()" with ""  
 
 ###5- Create tidy data set
+Remove the activity description in order to aggregate the data. Once the aggregation is complete add the activity description to the new aggregated data frame.
